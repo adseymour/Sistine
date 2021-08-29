@@ -1,0 +1,90 @@
+body {
+                 text-align: center;
+                 background-image:url('sistine.jpeg');
+                 background-size: cover;
+                 background-repeat: no-repeat;
+    }
+    h1 {
+       background-color:beige;
+       display:block;
+       width: 325px;
+       margin-right: auto;
+       margin-left:auto;
+       margin-top: 40px;
+       font-family:Didot, serif;
+         }
+    img {
+       width:40%;
+       height: auto;
+     }
+    .text{
+       margin-left: 40px;
+       display:inline-block;
+       float:left;
+       width: 300px;
+       background-color:beige;
+       font-family:Didot, serif;
+       text-align:left;
+       padding-left: 8px;
+     }
+     .twod {
+            text-align:center;
+         }
+      .sketchfab-embed-wrapper {
+         display:block;
+         }
+      .text2 {
+         margin-right:40px;
+         display:inline-block;
+       float:right;
+       width: 300px;
+       background-color: beige;
+         font-family:Didot, serif;
+         text-align:left;
+         padding-left: 8px;
+         }
+@media only screen and (max-device-width: 600px)  {
+  body {
+                 text-align: center;
+                 background-image:url('TLJ.jpeg');
+                 background-size: cover;
+                 background-repeat: no-repeat;
+    }
+    h1 {
+       background-color:beige;
+       display:block;
+       width: 325px;
+       margin-right: auto;
+       margin-left:auto;
+       margin-top: 40px;
+       font-family:Didot, serif;
+         }
+    img {
+       width:40%;
+       height: auto;
+     }
+    .text{
+       display:block;
+       background-color:beige;
+       font-family:Didot, serif;
+       text-align:center;
+       padding-left: 8px;
+      padding-right: 8px;
+     }
+     .twod {
+            text-align:center;
+         }
+      .sketchfab-embed-wrapper {
+         display:block;
+         margin-top:20px;
+        margin-bottom:10px;
+         }
+      .text2 {
+         display:block;
+       background-color: beige;
+         font-family:Didot, serif;
+         text-align: center;
+         padding-left: 8px;
+          padding-right: 8px;
+         }
+}
