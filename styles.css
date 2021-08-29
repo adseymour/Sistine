@@ -72,15 +72,14 @@ body {
      .twod {
         margin-top: 10px;    
        text-align:center;
-       width: auto;
-       height: auto;
+       width: 90%
          }
       .sketchfab-embed-wrapper {
          display:block;
          margin-top:20px;
         margin-bottom:10px;
-        width: auto; 
-        height: auto;
+        width: 90%; 
+        text-align: center;
          }
       .text2 {
          display:block;
@@ -89,7 +88,5 @@ body {
          text-align: center;
          padding-left: 8px;
           padding-right: 8px;
-          padding-top: 1px;
-          margin-top:2px;
          }
 }
