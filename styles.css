@@ -60,7 +60,7 @@ body {
        font-family:Didot, serif;
          }
     img {
-       width:40%;
+       width:95%;
        height: auto;
      }
     .text{
@@ -70,6 +70,8 @@ body {
        text-align:center;
        padding-left: 8px;
       padding-right: 8px;
+      padding-bottom:0px;
+      margin-bottom: 0px;
      }
      .twod {
             text-align:center;
@@ -78,6 +80,7 @@ body {
          display:block;
          margin-top:20px;
         margin-bottom:10px;
+        width: 95%; 
          }
       .text2 {
          display:block;
@@ -86,5 +89,7 @@ body {
          text-align: center;
          padding-left: 8px;
           padding-right: 8px;
+          padding-top: 1px;
+          margin-top:0px;
          }
 }
