@@ -59,10 +59,6 @@ body {
        margin-top: 40px;
        font-family:Didot, serif;
          }
-    img {
-       width:95%;
-       height: auto;
-     }
     .text{
        display:block;
        background-color:beige;
@@ -74,13 +70,17 @@ body {
       margin-bottom: 0px;
      }
      .twod {
-            text-align:center;
+        margin-top: 10px;    
+       text-align:center;
+       width: auto;
+       height: auto;
          }
       .sketchfab-embed-wrapper {
          display:block;
          margin-top:20px;
         margin-bottom:10px;
-        width: 95%; 
+        width: auto; 
+        height: auto;
          }
       .text2 {
          display:block;
@@ -90,6 +90,6 @@ body {
          padding-left: 8px;
           padding-right: 8px;
           padding-top: 1px;
-          margin-top:0px;
+          margin-top:2px;
          }
 }
